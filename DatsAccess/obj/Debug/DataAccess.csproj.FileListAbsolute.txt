@@ -1,0 +1,6 @@
+C:\Itlize\VSFolder\Practice\WebApplication1\DatsAccess\bin\Debug\DatsAccess.dll
+C:\Itlize\VSFolder\Practice\WebApplication1\DatsAccess\bin\Debug\DatsAccess.pdb
+C:\Itlize\VSFolder\Practice\WebApplication1\DatsAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Itlize\VSFolder\Practice\WebApplication1\DatsAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Itlize\VSFolder\Practice\WebApplication1\DatsAccess\obj\Debug\DatsAccess.dll
+C:\Itlize\VSFolder\Practice\WebApplication1\DatsAccess\obj\Debug\DatsAccess.pdb

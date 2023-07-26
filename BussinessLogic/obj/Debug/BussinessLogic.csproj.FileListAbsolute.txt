@@ -1,0 +1,9 @@
+C:\Itlize\VSFolder\Practice\WebApplication1\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Itlize\VSFolder\Practice\WebApplication1\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Itlize\VSFolder\Practice\WebApplication1\BussinessLogic\bin\Debug\DatsAccess.dll
+C:\Itlize\VSFolder\Practice\WebApplication1\BussinessLogic\bin\Debug\DatsAccess.pdb
+C:\Itlize\VSFolder\Practice\WebApplication1\BussinessLogic\obj\Debug\BussinessLogic.csproj.AssemblyReference.cache
+C:\Itlize\VSFolder\Practice\WebApplication1\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Itlize\VSFolder\Practice\WebApplication1\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+C:\Itlize\VSFolder\Practice\WebApplication1\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Itlize\VSFolder\Practice\WebApplication1\BussinessLogic\obj\Debug\BussinessLogic.pdb

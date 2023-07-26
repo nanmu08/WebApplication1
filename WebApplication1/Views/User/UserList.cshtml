@@ -1,0 +1,36 @@
+﻿
+@model List<DataAccess.Models.Users>
+
+@{
+    ViewBag.Title = "UserList";
+}
+
+
+
+<div>
+    <div class="text-bg-dark p-2">
+        <h4>User List</h4>
+    </div>
+    
+    <table class="table table-light  table-striped ">
+        <thead>
+            <tr>
+                <th>UserId</th>
+                <th>UserName</th>
+                <th>Email</th>
+                <th>Password</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var user in Model)
+            {
+                <tr>
+                    <td>@user.UserId</td>
+                    <td>@user.UserName</td>
+                    <td>@user.Email</td>
+                    <td>@user.Password</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
